@@ -1,47 +1,55 @@
-👋🏻 -Hi, I'm Juan Diego Corella Camacho ​
+-Hi, I'm Juan Diego Corella Camacho👋🏻​
 
 🖥️ -Full Stack Developer | React, Django &amp; MySQL | Telecommunications Systems
 
-📍 -Linda Vista, de La Uniòn, en Cartago, Costa Rica.
+📍 -Cartago, Costa Rica.
 
 📈 -Focused on scalable software development and modern systems.
 
 
 -- Technologies
 
---> Frontend
+-- Frontend
 - React
 - JavaScript
 - Tailwind CSS
 - Bootstrap
 
---> Backend
+
+-- Backend
 - Django
 - Django REST Framework
 
---> Database
+
+-- Database
 - MySQL
 
---> Authentication & Security
+
+-- Authentication & Security
 - JWT Authentication
 - Cookies
 - Local Storage
 
---> Data Visualization
+
+-- Data Visualization
 - ApexCharts
 
---> Tools
+
+-- Tools
 - Git
 - GitHub
 - Postman
 
---> Hardware & Networking
+
+-- Hardware & Networking
 - Arduino
 - Networking
 - Geolocation Systems
 - REST APIs
 
---> Collaboration
+
+-- Collaboration
 - Slack
 - Trello
-- Teams
+
+
