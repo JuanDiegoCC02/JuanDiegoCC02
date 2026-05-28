@@ -53,3 +53,8 @@
 - Trello
 
 
+-- Contact
+- Portfolio: https://juandiegocc02.github.io/Professional-Portfolio/
+- LikedIn: linkedin.com/in/juan-diego-corella-camacho-a543ba1a9
+- Email: dcorella2324@gmail.com
+
