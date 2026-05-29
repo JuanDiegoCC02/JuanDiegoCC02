@@ -9,40 +9,40 @@
 
 
 -- Technologies
-
-- Frontend
+<br/>
+ Frontend:
 - React
 - JavaScript
 - Tailwind CSS
 - Bootstrap
----
-- Backend
+  <br/>
+ Backend:
 - Django
 - Django REST Framework
----
-- Database
+<br/>
+ Database:
 - MySQL
----
-- Authentication & Security
+<br/>
+ Authentication & Security:
 - JWT Authentication
 - Cookies
 - Local Storage
-----
-- Data Visualization
+<br/>
+ Data Visualization:
 - ApexCharts
----
-- Tools
+<br/>
+ Tools:
 - Git
 - GitHub
 - Postman
----
-- Hardware & Networking
+<br/>
+ Hardware & Networking:
 - Arduino
 - Networking
 - Geolocation Systems
 - REST APIs
----
-- Collaboration
+<br/>
+ Collaboration:
 - Slack
 - Trello
 <hr/><br/>
