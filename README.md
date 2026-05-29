@@ -22,7 +22,7 @@
 - Django REST Framework
 <br/>
 
- Database
+-> Database
 - MySQL
 <br/>
 
@@ -63,8 +63,6 @@ Network infrastructure management platform designed to register, monitor and man
 It is a community-driven platform that allows citizens to report environmental news and awareness campaigns across Costa Rica. Users can submit geolocated reports with images and detailed information, which are reviewed before publication to ensure accuracy and reliability. The platform also encourages community engagement through likes, comments and discussion threads.
 <hr/><br/>
 
-![Estadísticas de Juan Diego](https://github-readme-stats.vercel.app/api?username=JuanDiegoCC02&show_icons=true&theme=tokyonight&count_private=true)
-<hr/><br/>
 
 -- Contact
 - Portfolio: https://juandiegocc02.github.io/Professional-Portfolio/
