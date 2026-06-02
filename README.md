@@ -67,7 +67,7 @@ Habit tracking and personal growth platform designed to encourage long-term user
 <hr/><br/>
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanDiegoCC02&layout=compact&theme=github_dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=JuanDiegoCC02)
 <hr/><br/>
 
 
