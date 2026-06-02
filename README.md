@@ -67,6 +67,10 @@ Habit tracking and personal growth platform designed to encourage long-term user
 <hr/><br/>
 
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanDiegoCC02&layout=compact)
+<hr/><br/>
+
+
 -- Contact
 - Portfolio: https://juandiegocc02.github.io/Professional-Portfolio/
 - LikedIn: [linkedin.com/in/juan-diego-corella-camacho-a543ba1a9](https://www.linkedin.com/in/juan-diego-corella-camacho-a543ba1a9/)
