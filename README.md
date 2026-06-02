@@ -56,11 +56,14 @@
 
 
 -- Featured Projects
-- Networks & Telecommunications
+- Networks & Telecommunications.
 Network infrastructure management platform designed to register, monitor and manage internet routers and IP cameras. Includes geolocation, image and video support, device information management, maintenance tracking and centralized data storage with MySQL, powered by React and Django REST Framework.
 
 - Noticias Ambientales C.R.
 It is a community-driven platform that allows citizens to report environmental news and awareness campaigns across Costa Rica. Users can submit geolocated reports with images and detailed information, which are reviewed before publication to ensure accuracy and reliability. The platform also encourages community engagement through likes, comments and discussion threads.
+
+- Numb Astro.
+Habit tracking and personal growth platform designed to encourage long-term user engagement through gamification and data-driven insights. The system combines progress tracking, achievement management, interactive dashboards and user analytics to create a motivating and structured self-improvement experience.
 <hr/><br/>
 
 
