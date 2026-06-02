@@ -10,42 +10,44 @@
 
 -- Technologies <br/>
 
-- Frontend
+- Frontend<br/>
 ![React](https://img.shields.io/badge/React-20232A?logo=react)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap)
 <br/>
   
-- Backend
+- Backend<br/>
 ![Django](https://img.shields.io/badge/Django-092E20?logo=django)
 ![Django REST Framework](https://img.shields.io/badge/DRF-A30000?logo=django)
 <br/>
 
-- Database
+- Database<br/>
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?logo=cloudinary)
 <br/>
 
-- Authentication & Security
+- Authentication & Security<br/>
 ![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens)
 <br/>
 
-- Data Visualization
+- Data Visualization<br/>
 ![ApexCharts](https://img.shields.io/badge/ApexCharts-008FFB)
 <br/>
 
-- Tools
+- Tools<br/>
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman)
 <br/>
 
-- Hardware & Networking
+- Hardware & Networking<br/>
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino)
+![REST API](https://img.shields.io/badge/REST_API-005571)
+![Leaflet](https://img.shields.io/badge/Leaflet-199900?logo=leaflet&logoColor=white)
 <br/>
 
-- Collaboration
+- Collaboration<br/>
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack)
