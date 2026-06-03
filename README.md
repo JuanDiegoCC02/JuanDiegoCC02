@@ -4,7 +4,9 @@
 
 📍 -Cartago, Costa Rica.
 
-📈 -Focused on scalable software development and modern systems.
+📈 -Focused on scalable software development and modern systems.<br/>
+
+![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JuanDiegoCC02&theme=github_dark)
 <hr/> <br/>
 
 
@@ -69,8 +71,6 @@ Habit tracking and personal growth platform designed to encourage long-term user
 ![Juan Diego's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JuanDiegoCC02&theme=github-dark)
 <hr/><br/>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JuanDiegoCC02&theme=github_dark)
-<hr/><br/>
 
 
 -- Contact
