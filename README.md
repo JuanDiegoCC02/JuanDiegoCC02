@@ -1,3 +1,6 @@
+![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JuanDiegoCC02&theme=github_dark)
+<hr/> <br/>
+
 -Hi, I'm Juan Diego Corella Camacho👋🏻​
 
 🖥️ -Full Stack Developer | React, Django &amp; MySQL | Telecommunications Systems.
@@ -5,8 +8,6 @@
 📍 -Cartago, Costa Rica.
 
 📈 -Focused on scalable software development and modern systems.<br/>
-
-![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JuanDiegoCC02&theme=github_dark)
 <hr/> <br/>
 
 
