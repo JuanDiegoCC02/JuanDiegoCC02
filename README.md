@@ -66,7 +66,7 @@ Habit tracking and personal growth platform designed to encourage long-term user
 <hr/><br/>
 
 
-![GitHub Streak](https://streak-stats.demolab.com?user=JuanDiegoCC02)
+[![Juan Diego's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JuanDiegoCC02&theme=github-dark)]
 <hr/><br/>
 
 
