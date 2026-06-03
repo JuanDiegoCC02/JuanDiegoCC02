@@ -1,5 +1,5 @@
 ![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JuanDiegoCC02&theme=github_dark)
-<hr/> <br/>
+
 
 -Hi, I'm Juan Diego Corella Camacho👋🏻​
 
