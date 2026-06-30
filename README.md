@@ -21,6 +21,7 @@
 <br/>
   
 - Backend<br/>
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python)
 ![Django](https://img.shields.io/badge/Django-092E20?logo=django)
 ![Django REST Framework](https://img.shields.io/badge/DRF-A30000?logo=django)
 <br/>
