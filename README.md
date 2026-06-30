@@ -31,9 +31,6 @@
 ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-121013?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge)
-![Progress OpenEdge](https://img.shields.io/badge/Progress-OpenEdge_SQL-5C2D91?style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 <br/>
 
 - Authentication & Security<br/>
