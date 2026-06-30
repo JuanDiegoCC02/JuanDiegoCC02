@@ -28,7 +28,7 @@
 - Database<br/>
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?logo=cloudinary)
-![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-121013?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-121013?logo=github)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel)
 <br/>
 
