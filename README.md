@@ -1,10 +1,8 @@
 
 
-
-![Gráfico 3D de Contribuciones](https://github-profile-3d-contrib.vercel.app/api?username=JuanDiegoCC02&theme=dark)
-![Estadísticas de Juan Diego](https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=JuanDiegoCC02&show_icons=true&theme=dark&border_radius=10&show_owner_avatar=true)
-![Gráfico de Actividad](https://github-readme-activity-graph.vercel.app/graph?username=JuanDiegoCC02&theme=github-dark)
-![Mis Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanDiegoCC02&layout=donut&theme=dark)
+![Estadísticas](https://github-flex.vercel.app/api/stats?username=JuanDiegoCC02&theme=dark)
+![Lenguajes](https://github-flex.vercel.app/api/languages?username=JuanDiegoCC02&theme=dark)
+![Visitas](https://komarev.com/ghpvc/?username=JuanDiegoCC02&color=blue&style=flat-square&label=Vistas+al+Perfil)
 
 
 -Hi, I'm Juan Diego Corella Camacho👋🏻​
