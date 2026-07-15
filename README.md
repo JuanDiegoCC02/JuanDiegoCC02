@@ -1,5 +1,4 @@
-[https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JuanDiegoCC02&theme=github_dark](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JuanDiegoCC02&theme=github_dark)
-
+![GitHub Profile Summary](https://github-profile-summary-cards-git-master-vn7n24fzkqs-projects.vercel.app/api/cards/profile-details?username=JuanDiegoCC02&theme=github_dark)
 
 -Hi, I'm Juan Diego Corella Camacho👋🏻​
 
@@ -9,7 +8,7 @@
 
 📈 -Focused on scalable software development and modern systems.<br/>
 
-![Estadísticas Técnicas](https://github-readme-stats-one-bice.vercel.app/api?username=JuanDiegoCC02&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&show_icons=true)
+![Technical statistics](https://github-readme-stats-one-bice.vercel.app/api?username=JuanDiegoCC02&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&show_icons=true)
 
 <hr/> <br/>
 
@@ -64,8 +63,6 @@
 ![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack)
 <br/>
 
-![Distribución de Lenguajes](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=JuanDiegoCC02&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
-
 <hr/><br/>
 
 
@@ -81,7 +78,7 @@ Habit tracking and personal growth platform designed to encourage long-term user
 <hr/><br/>
 
 
-![Métricas de Actividad](https://github-readme-activity-graph.vercel.app/graph?username=JuanDiegoCC02&theme=react-dark&bg_color=0d1117&hide_border=true)
+![Activity statistics](https://github-readme-activity-graph.vercel.app/graph?username=JuanDiegoCC02&theme=react-dark&bg_color=0d1117&hide_border=true)
 <hr/><br/>
 
 
