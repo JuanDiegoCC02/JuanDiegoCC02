@@ -1,5 +1,8 @@
 ![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JuanDiegoCC02&theme=github_dark)
 
+<!-- Prueba cambiando la URL por una alternativa estable como github-readme-stats si solo buscas estadísticas generales -->
+
+![GitHub Profile Summary]([https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JuanDiegoCC02&theme=github_dark](https://github-readme-stats.vercel.app/api?username=JuanDiegoCC02&theme=dark))
 
 -Hi, I'm Juan Diego Corella Camacho👋🏻​
 
