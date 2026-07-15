@@ -1,7 +1,7 @@
 
 
 
-![GitHub Profile Summary](https://github-profile-summary-cards-git-master-vn7n24fzkqs-projects.vercel.app/api/cards/profile-details?username=JuanDiegoCC02&theme=github_dark)
+![GitHub Profile Summary](https://github-readme-stats.vercel.app/api?username=JuanDiegoCC02&show_icons=true&theme=github_dark&show=reviews,discussions_authored,discussions_answered)
 
 
 -Hi, I'm Juan Diego Corella Camacho👋🏻​
