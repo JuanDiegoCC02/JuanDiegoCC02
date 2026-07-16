@@ -74,7 +74,7 @@ It is a community-driven platform that allows citizens to report environmental n
 
 - Numb Astro.<br/>
 Habit tracking and personal growth platform designed to encourage long-term user engagement through gamification and data-driven insights. The system combines progress tracking, achievement management, interactive dashboards and user analytics to create a motivating and structured self-improvement experience.
-<hr/><br/>
+<hr/><br/><br/>
 
 
 ![Activity statistics](https://github-readme-activity-graph.vercel.app/graph?username=JuanDiegoCC02&theme=react-dark&bg_color=0d1117&hide_border=true)
