@@ -78,7 +78,9 @@ Habit tracking and personal growth platform designed to encourage long-term user
 
 
 <br/>
+
 ![Activity statistics](https://github-readme-activity-graph.vercel.app/graph?username=JuanDiegoCC02&theme=react-dark&bg_color=0d1117&hide_border=true)
+
 <hr/><br/>
 
 
