@@ -1,5 +1,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JuanDiegoCC02&theme=github_dark)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JuanDiegoCC02&theme=github_dark)
+
 -Hi, I'm Juan Diego Corella Camacho👋🏻​
 
 🖥️ -Full Stack Developer | React, Django &amp; MySQL | Telecommunications Systems.
@@ -7,15 +9,6 @@
 📍 -Cartago, Costa Rica.
 
 📈 -Focused on scalable software development and modern systems.<br/>
-
-///1
-![](https://github-profile-trophy.vercel.app/?username=JuanDiegoCC02&theme=darkhub)
-///2
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JuanDiegoCC02&theme=github_dark)
-///3
-![](https://ghstats.dev/api/card?username=JuanDiegoCC02&theme=github-dark)
-///4
-![](https://github-profile-trophy.vercel.app/?username=JuanDiegoCC02&theme=darkhub)
 
 <hr/> <br/>
 
