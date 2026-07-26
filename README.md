@@ -1,6 +1,4 @@
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JuanDiegoCC02&theme=github_dark)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JuanDiegoCC02&theme=github_dark)
 
 -Hi, I'm Juan Diego Corella Camacho👋🏻​
 
@@ -81,7 +79,9 @@ Habit tracking and personal growth platform designed to encourage long-term user
 ![Activity statistics](https://github-readme-activity-graph.vercel.app/graph?username=JuanDiegoCC02&theme=react-dark&bg_color=0d1117&hide_border=true)
 <hr/><br/>
 
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JuanDiegoCC02&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JuanDiegoCC02&theme=github_dark)
+<hr/><br/>
 
 -- Contact
 - Portfolio: https://juandiegocc02.github.io/Professional-Portfolio/
