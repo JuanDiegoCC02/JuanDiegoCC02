@@ -8,17 +8,14 @@
 
 📈 -Focused on scalable software development and modern systems.<br/>
 
+///1
 ![](https://github-profile-trophy.vercel.app/?username=JuanDiegoCC02&theme=darkhub)
-///
+///2
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JuanDiegoCC02&theme=github_dark)
-///
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JuanDiegoCC02&theme=github_dark&utcOffset=-6)
-///
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanDiegoCC02&layout=compact&theme=github_dark)
-///
-![](https://github-readme-activity-graph.vercel.app/graph?username=JuanDiegoCC02&theme=github-dark)
-///
-![](https://github-readme-activity-graph.vercel.app/graph?username=JuanDiegoCC02&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff)
+///3
+![](https://ghstats.dev/api/card?username=JuanDiegoCC02&theme=github-dark)
+///4
+![](https://github-profile-trophy.vercel.app/?username=JuanDiegoCC02&theme=darkhub)
 
 <hr/> <br/>
 
