@@ -1,4 +1,4 @@
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JuanDiegoCC02&theme=github_dark)
 
 -Hi, I'm Juan Diego Corella Camacho👋🏻​
 
@@ -61,6 +61,7 @@
 ![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack)
 <br/>
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JuanDiegoCC02&theme=github_dark)
 <hr/><br/>
 
 
@@ -73,15 +74,13 @@ It is a community-driven platform that allows citizens to report environmental n
 
 - Numb Astro.<br/>
 Habit tracking and personal growth platform designed to encourage long-term user engagement through gamification and data-driven insights. The system combines progress tracking, achievement management, interactive dashboards and user analytics to create a motivating and structured self-improvement experience.
-<hr/><br/><br/>
+<hr/><br/><br/><br/>
 
 
+<br/>
 ![Activity statistics](https://github-readme-activity-graph.vercel.app/graph?username=JuanDiegoCC02&theme=react-dark&bg_color=0d1117&hide_border=true)
 <hr/><br/>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JuanDiegoCC02&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JuanDiegoCC02&theme=github_dark)
-<hr/><br/>
 
 -- Contact
 - Portfolio: https://juandiegocc02.github.io/Professional-Portfolio/
