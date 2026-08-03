@@ -1,5 +1,3 @@
-![](https://github-profile-trophy.vercel.app/?username=JuanDiegoCC02&theme=darkhub)
-
 
 -Hi, I'm Juan Diego Corella Camacho👋🏻​
 
