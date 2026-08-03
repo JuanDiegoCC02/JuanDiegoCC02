@@ -1,4 +1,4 @@
-
+![Technical statistics](https://github-readme-stats-one-bice.vercel.app/api?username=JuanDiegoCC02&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&show_icons=true)
 
 
 -Hi, I'm Juan Diego Corella Camacho👋🏻​
@@ -62,7 +62,7 @@
 ![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack)
 <br/>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JuanDiegoCC02&theme=github_dark)
+
 <hr/><br/>
 
 
@@ -81,7 +81,7 @@ Habit tracking and personal growth platform designed to encourage long-term user
 
 
 ![Activity statistics](https://github-readme-activity-graph.vercel.app/graph?username=JuanDiegoCC02&theme=react-dark&bg_color=0d1117&hide_border=true)
-
+<br/>
 <hr/><br/>
 
 
