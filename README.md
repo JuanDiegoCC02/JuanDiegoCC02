@@ -1,4 +1,3 @@
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JuanDiegoCC02&theme=github_dark)
 
 -Hi, I'm Juan Diego Corella Camacho👋🏻​
 
