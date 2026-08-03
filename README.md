@@ -1,4 +1,4 @@
-![Technical statistics](https://github-readme-stats-one-bice.vercel.app/api?username=JuanDiegoCC02&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&show_icons=true)
+![](https://github-profile-trophy.vercel.app/?username=JuanDiegoCC02&theme=darkhub)
 
 
 -Hi, I'm Juan Diego Corella Camacho👋🏻​
