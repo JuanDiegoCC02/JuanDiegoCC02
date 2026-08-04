@@ -83,7 +83,7 @@ Habit tracking and personal growth platform designed to encourage long-term user
 <hr/><br/>
 
 
--- Contact Me <br/>
+-- Contact Me
 <br/>
 
 <a href="https://linkedin.com/in/juan-diego-corella-camacho-a543ba1a9">
