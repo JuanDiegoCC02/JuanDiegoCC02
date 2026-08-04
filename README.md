@@ -83,7 +83,7 @@ Habit tracking and personal growth platform designed to encourage long-term user
 <hr/><br/>
 
 
--- Contact
+-- Contact Me <br/>
 <a href="https://juandiegocc02.github.io/Professional-Portfolio/">
 <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a><br/>
