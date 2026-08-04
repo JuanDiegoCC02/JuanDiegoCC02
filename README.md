@@ -1,90 +1,186 @@
+# 👋 Hi, I'm Juan Diego Corella Camacho
 
--Hi, I'm Juan Diego Corella Camacho👋🏻​
+<h3 align="center">
+Full Stack Developer • React • Django • Python • MySQL • Telecommunications
+</h3>
 
-🖥️ -Full Stack Developer | React, Django &amp; MySQL | Telecommunications Systems.
+<p align="center">
+Building scalable web applications, AI-powered systems and network management solutions.
+</p>
 
-📍 -Cartago, Costa Rica.
+---
 
-📈 -Focused on scalable software development and modern systems.<br/>
+## 🚀 About Me
 
-<hr/> <br/>
+I'm a **Full Stack Developer** from **Costa Rica** passionate about building modern applications with clean architecture and scalable solutions.
 
+My experience combines **web development**, **Artificial Intelligence**, and **Telecommunications**, allowing me to create complete software solutions from backend APIs to intuitive frontend interfaces.
 
--- Technologies <br/>
+Currently I'm focused on:
 
-- Frontend<br/>
-![React](https://img.shields.io/badge/React-20232A?logo=react)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap)
-<br/>
-  
-- Backend<br/>
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python)
-![Django](https://img.shields.io/badge/Django-092E20?logo=django)
-![Django REST Framework](https://img.shields.io/badge/DRF-A30000?logo=django)
-<br/>
+* 🌐 Full Stack Development
+* 🤖 Artificial Intelligence Applications
+* ⚙️ REST API Design
+* 🗄️ Database Design
+* ☁️ Cloud Deployment
+* 📡 Telecommunications Systems
+* 📈 Continuous Learning
 
-- Database<br/>
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql)
-![pgAdmin 4](https://img.shields.io/badge/pgAdmin%204-4169E1?logo=postgresql)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?logo=cloudinary)
-![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-121013?logo=github)
-![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel)
-<br/>
+---
 
-- Authentication & Security<br/>
-![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens)
-<br/>
+# 💻 Tech Stack
 
-- Data Visualization<br/>
-![ApexCharts](https://img.shields.io/badge/ApexCharts-008FFB)
-<br/>
+## Frontend
 
-- Tools<br/>
-![Git](https://img.shields.io/badge/Git-F05032?logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman)
-<br/>
+<p>
 
-- Hardware & Networking<br/>
-![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino)
-![REST API](https://img.shields.io/badge/REST_API-005571)
-![Leaflet](https://img.shields.io/badge/Leaflet-199900?logo=leaflet&logoColor=white)
-<br/>
+<img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap,tailwind" />
 
-- Collaboration<br/>
-![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma)
-![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello)
-![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack)
-<br/>
+</p>
 
+## Backend
 
-<hr/><br/>
+<p>
 
+<img src="https://skillicons.dev/icons?i=python,django" />
 
--- Featured Projects
-- Networks & Telecommunications.<br/>
-Network infrastructure management platform designed to register, monitor and manage internet routers and IP cameras. Includes geolocation, image and video support, device information management, maintenance tracking and centralized data storage with MySQL, powered by React and Django REST Framework.
+</p>
 
-- Noticias Ambientales C.R.<br/>
-It is a community-driven platform that allows citizens to report environmental news and awareness campaigns across Costa Rica. Users can submit geolocated reports with images and detailed information, which are reviewed before publication to ensure accuracy and reliability. The platform also encourages community engagement through likes, comments and discussion threads.
+## Database
 
-- Numb Astro.<br/>
-Habit tracking and personal growth platform designed to encourage long-term user engagement through gamification and data-driven insights. The system combines progress tracking, achievement management, interactive dashboards and user analytics to create a motivating and structured self-improvement experience.
-<br/>
-<hr/><br/><br/>
+<p>
 
+<img src="https://skillicons.dev/icons?i=mysql,postgres" />
 
+</p>
 
-![Activity statistics](https://github-readme-activity-graph.vercel.app/graph?username=JuanDiegoCC02&theme=react-dark&bg_color=0d1117&hide_border=true)
-<br/>
-<hr/><br/>
+## Tools & Cloud
 
+<p>
 
--- Contact
-- Portfolio: https://juandiegocc02.github.io/Professional-Portfolio/
-- LikedIn: [linkedin.com/in/juan-diego-corella-camacho-a543ba1a9](https://www.linkedin.com/in/juan-diego-corella-camacho-a543ba1a9/)
-- Email: dcorella2324@gmail.com
-<br/>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel,figma" />
+
+</p>
+
+## Additional Technologies
+
+* Django REST Framework
+* JWT Authentication
+* ApexCharts
+* Leaflet
+* Cloudinary
+* GitHub Pages
+* pgAdmin 4
+* Arduino
+* REST APIs
+* Trello
+* Slack
+
+---
+
+# ⭐ Featured Projects
+
+## 🌐 Networks & Telecommunications
+
+A complete **network infrastructure management platform** developed with **React**, **Django REST Framework**, and **MySQL**.
+
+### Features
+
+* Router Management
+* IP Camera Management
+* Interactive Maps
+* Device Maintenance
+* Image & Video Storage
+* Geolocation
+* Dashboard
+* Administrative Panel
+
+---
+
+## 🌱 Noticias Ambientales C.R.
+
+Community platform that enables citizens to report environmental incidents and awareness campaigns throughout Costa Rica.
+
+### Features
+
+* Geolocated Reports
+* Cloud Image Upload
+* Comments
+* Likes
+* Moderation System
+* Environmental Awareness
+* Interactive Community
+
+---
+
+## 🚀 Numb Astro
+
+A gamified habit tracker focused on long-term personal growth.
+
+### Features
+
+* Habit Management
+* Achievement System
+* User Analytics
+* Progress Tracking
+* Interactive Dashboard
+* Gamification
+* Statistics
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=JuanDiegoCC02&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=JuanDiegoCC02&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanDiegoCC02&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JuanDiegoCC02&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🌍 Connect With Me
+
+<p align="center">
+
+<a href="https://juandiegocc02.github.io/Professional-Portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/juan-diego-corella-camacho-a543ba1a9">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:dcorella2324@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+⭐ Thanks for visiting my profile!
+
+Building software one project at a time.
+
+</p>
