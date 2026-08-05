@@ -1,104 +1,45 @@
+<div align="center">
 
--Hi, I'm Juan Diego Corella Camacho👋🏻​
+  <!-- Header Banner Dinámico con Typing Effect -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D2FF&center=true&vcenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Juan+Diego+Corella;Full+Stack+Developer+%26+Telecom+Tech;Building+Scalable+Web+%26+Network+Systems;React+%E2%80%A2+Django+%E2%80%A2+Python+%E2%80%A2+MySQL" alt="Typing SVG" />
+  </a>
 
-🖥️ -Full Stack Developer | React, Django &amp; MySQL | Telecommunications Systems.
+  <p align="center">
+    <b>Transforming complex ideas into scalable code and robust network architectures.</b>
+  </p>
 
-📍 -Cartago, Costa Rica.
+  <!-- Status & Quick Badges -->
+  <p align="center">
+    <img src="https://img.shields.io/badge/Location-Costa_Rica_🇨🇷-0055A5?style=for-the-badge&logo=googlemaps&logoColor=white" />
+    <img src="https://img.shields.io/badge/Open_for-Full_Time_%2F_Freelance-success?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Experience-Full_Stack_%2B_Networks-8A2BE2?style=for-the-badge" />
+  </p>
 
-📈 -Focused on scalable software development and modern systems.<br/>
+  <!-- Botones de Acción Inmediata (Contact Calls) -->
+  <p align="center">
+    <a href="https://juandiegocc02.github.io/Professional-Portfolio/" target="_blank">
+      <img src="https://img.shields.io/badge/🌐_Live_Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    </a>
+    <a href="https://linkedin.com/in/juan-diego-corella-camacho-a543ba1a9" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:dcorella2324@gmail.com">
+      <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+  </p>
 
-<hr/> <br/>
+</div>
 
+---
 
--- Technologies <br/>
+## ⚡ Executive Summary
 
-- Frontend<br/>
-![React](https://img.shields.io/badge/React-20232A?logo=react)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap)
-<br/>
-  
-- Backend<br/>
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python)
-![Django](https://img.shields.io/badge/Django-092E20?logo=django)
-![Django REST Framework](https://img.shields.io/badge/DRF-A30000?logo=django)
-<br/>
-
-- Database<br/>
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql)
-![pgAdmin 4](https://img.shields.io/badge/pgAdmin%204-4169E1?logo=postgresql)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?logo=cloudinary)
-![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-121013?logo=github)
-![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel)
-<br/>
-
-- Authentication & Security<br/>
-![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens)
-<br/>
-
-- Data Visualization<br/>
-![ApexCharts](https://img.shields.io/badge/ApexCharts-008FFB)
-<br/>
-
-- Tools<br/>
-![Git](https://img.shields.io/badge/Git-F05032?logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman)
-<br/>
-
-- Hardware & Networking<br/>
-![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino)
-![REST API](https://img.shields.io/badge/REST_API-005571)
-![Leaflet](https://img.shields.io/badge/Leaflet-199900?logo=leaflet&logoColor=white)
-<br/>
-
-- Collaboration<br/>
-![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma)
-![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello)
-![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack)
-<br/>
-
-
-<hr/><br/>
-
-
--- Featured Projects
-- Networks & Telecommunications.<br/>
-Network infrastructure management platform designed to register, monitor and manage internet routers and IP cameras. Includes geolocation, image and video support, device information management, maintenance tracking and centralized data storage with MySQL, powered by React and Django REST Framework.
-
-- Noticias Ambientales C.R.<br/>
-It is a community-driven platform that allows citizens to report environmental news and awareness campaigns across Costa Rica. Users can submit geolocated reports with images and detailed information, which are reviewed before publication to ensure accuracy and reliability. The platform also encourages community engagement through likes, comments and discussion threads.
-
-- Numb Astro.<br/>
-Habit tracking and personal growth platform designed to encourage long-term user engagement through gamification and data-driven insights. The system combines progress tracking, achievement management, interactive dashboards and user analytics to create a motivating and structured self-improvement experience.
-<br/>
-<hr/><br/><br/>
-
-
-
-![Activity statistics](https://github-readme-activity-graph.vercel.app/graph?username=JuanDiegoCC02&theme=react-dark&bg_color=0d1117&hide_border=true)
-<br/>
-<hr/><br/>
-
-
--- Contact Me
-<br/>
-
-<a href="https://linkedin.com/in/juan-diego-corella-camacho-a543ba1a9">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-<br/>
-
-<a href="mailto:dcorella2324@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<br/>
-
-<a href="https://juandiegocc02.github.io/Professional-Portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-<br/>
-
-
+```json
+{
+  "developer": "Juan Diego Corella Camacho",
+  "title": "Full Stack Web Developer & Telecommunications Specialist",
+  "core_competencies": ["Web Architecture", "RESTful APIs", "Database Systems", "Network Infra"],
+  "location": "Costa Rica 🇨🇷",
+  "status": "Ready for new professional opportunities"
+}
