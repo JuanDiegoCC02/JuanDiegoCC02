@@ -101,11 +101,6 @@ Gamified habit tracker focused on productivity, personal growth and user engagem
 
 </div>
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanDiegoCC02&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
 
 <div align="center">
 
