@@ -95,8 +95,6 @@ Gamified habit tracker focused on productivity, personal growth and user engagem
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=JuanDiegoCC02&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=JuanDiegoCC02&theme=tokyonight&hide_border=true"/>
 
 </div>
