@@ -40,8 +40,8 @@ I enjoy developing clean, maintainable applications using **React**, **Django** 
 
 ### Frontend
 
-![React](https://img.shields.io/badge/React-20232A?logo=react)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?logo=react)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap)
 
