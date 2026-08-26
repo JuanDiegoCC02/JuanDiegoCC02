@@ -106,6 +106,10 @@ Gamified habit tracker focused on productivity, personal growth and user engagem
 
 </div>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.bhagya.dev/graph?username=JuanDiegoCC02&theme=tokyo-night&hide_border=true&area=true" alt="Gráfico de actividad" />
+</div>
+
 ---
 
 # 🎯 Current Focus
