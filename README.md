@@ -108,11 +108,9 @@ Gamified habit tracker focused on productivity, personal growth and user engagem
 
 
 <div align="center">
-
-  <img src="https://img.shields.io/github/followers/JuanDiegoCC02?label=Followers&style=for-the-badge&color=7aa2f7&labelColor=1a1b26" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/JuanDiegoCC02?label=Stars&style=for-the-badge&color=bb9af7&labelColor=1a1b26" alt="Stars" />
-  <img src="https://img.shields.io/github/directory-file-count/JuanDiegoCC02/JuanDiegoCC02?label=Repos&style=for-the-badge&color=7dcfff&labelColor=1a1b26" alt="Repos" />
-
+  
+  <img src="https://TU-PROYECTO.vercel.app/graph?username=JuanDiegoCC02&theme=tokyo-night&hide_border=true" alt="Gráfico de Actividad" />
+  
 </div>
 
 ---
