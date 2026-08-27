@@ -106,8 +106,10 @@ Gamified habit tracker focused on productivity, personal growth and user engagem
 
 </div>
 
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.bhagya.dev/graph?username=JuanDiegoCC02&theme=tokyo-night&hide_border=true&area=true" alt="Gráfico de actividad" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=JuanDiegoCC02&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de GitHub" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanDiegoCC02&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Lenguajes principales" />
 </div>
 
 ---
