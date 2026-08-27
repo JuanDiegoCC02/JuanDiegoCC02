@@ -108,8 +108,11 @@ Gamified habit tracker focused on productivity, personal growth and user engagem
 
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=JuanDiegoCC02&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de GitHub" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanDiegoCC02&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Lenguajes principales" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JuanDiegoCC02/JuanDiegoCC02/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JuanDiegoCC02/JuanDiegoCC02/output/github-contribution-grid-snake.svg">
+    <img alt="Serpiente de contribuciones" src="https://raw.githubusercontent.com/JuanDiegoCC02/JuanDiegoCC02/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ---
