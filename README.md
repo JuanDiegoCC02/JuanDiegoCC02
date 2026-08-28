@@ -106,10 +106,9 @@ Gamified habit tracker focused on productivity, personal growth and user engagem
 
 </div>
 
-
 <div align="center">
   
-  <img src="https://TU-PROYECTO.vercel.app/graph?username=JuanDiegoCC02&theme=tokyo-night&hide_border=true" alt="Gráfico de Actividad" />
+  <img src="https://github-profile-trophy.vercel.app/?username=JuanDiegoCC02&theme=tokyonight&no-bg=true&no-frame=true&column=6" alt="Logros de GitHub" />
   
 </div>
 
