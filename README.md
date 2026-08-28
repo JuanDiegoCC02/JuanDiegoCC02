@@ -107,11 +107,8 @@ Gamified habit tracker focused on productivity, personal growth and user engagem
 </div>
 
 <div align="center">
-
-  <img src="https://img.shields.io/github/followers/JuanDiegoCC02?style=for-the-badge&logo=github&color=7aa2f7&labelColor=1a1b26" alt="Seguidores" />
-  <img src="https://img.shields.io/github/stars/JuanDiegoCC02?style=for-the-badge&logo=apachespark&color=bb9af7&labelColor=1a1b26" alt="Estrellas" />
-  <img src="https://img.shields.io/badge/Status-Active_Developer-7dcfff?style=for-the-badge&labelColor=1a1b26" alt="Estado" />
-
+  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JuanDiegoCC02&theme=tokyonight" alt="Detalles de perfil" />
+  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JuanDiegoCC02&theme=tokyonight" alt="Repositorios por lenguaje" />
 </div>
 
 ---
