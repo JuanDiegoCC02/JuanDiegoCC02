@@ -9,19 +9,15 @@ Building scalable web applications, REST APIs and modern software solutions with
 </p>
 
 <p align="center">
-
-<a href="https://juandiegocc02.github.io/Professional-Portfolio/" target="_blank">
-<img src="https://img.shields.io/badge/🌐_Portfolio-Visit-0A66C2?style=for-the-badge"/>
-</a>
-
-<a href="https://linkedin.com/in/juan-diego-corella-camacho-a543ba1a9" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:dcorella2324@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
+  <a href="https://juandiegocc02.github.io/Professional-Portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=58A6FF&labelColor=0D1117" alt="Portfolio"/>
+  </a>
+  <a href="https://linkedin.com/in/juan-diego-corella-camacho-a543ba1a9">
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF&labelColor=0D1117" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:dcorella2324@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF&labelColor=0D1117" alt="Email"/>
+  </a>
 </p>
 
 </div>
@@ -125,19 +121,19 @@ Gamified habit tracker focused on productivity, personal growth and user engagem
 # 🤝 Let's Connect
 
 <p align="center">
+  <strong>Open to new opportunities, collaborations and interesting projects.</strong>
+</p>
 
-<a href="https://juandiegocc02.github.io/Professional-Portfolio/" target="_blank">
-<img src="https://img.shields.io/badge/🌐_Portfolio-Visit-0A66C2?style=for-the-badge"/>
-</a>
-
-<a href="https://linkedin.com/in/juan-diego-corella-camacho-a543ba1a9" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:dcorella2324@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
+<p align="center">
+  <a href="https://juandiegocc02.github.io/Professional-Portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://linkedin.com/in/juan-diego-corella-camacho-a543ba1a9">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-58A6FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:dcorella2324@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-58A6FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
 ---
