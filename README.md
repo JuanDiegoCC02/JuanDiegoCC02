@@ -8,28 +8,20 @@
 Building scalable web applications, REST APIs and modern software solutions with clean architecture.
 </p>
 
-<p>
-<div align="center">
+<p align="center">
 
-<img
-  height="180" src="https://github-readme-stats.vercel.app/api?username=JuanDiegoCC02&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight"
-/>
+<a href="https://juandiegocc02.github.io/Professional-Portfolio/" target="_blank">
+<img src="https://img.shields.io/badge/🌐_Portfolio-Visit-0A66C2?style=for-the-badge"/>
+</a>
 
-<img
-  height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanDiegoCC02&layout=compact&langs_count=8&hide_border=true&theme=tokyonight"
-/>
+<a href="https://linkedin.com/in/juan-diego-corella-camacho-a543ba1a9" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
 
-</div>
+<a href="mailto:dcorella2324@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JuanDiegoCC02&theme=tokyo-night&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true"
-  width="95%"
-/>
-
-</div>
 </p>
 
 </div>
