@@ -98,8 +98,8 @@ Gamified habit tracker focused on productivity, personal growth and user engagem
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JuanDiegoCC02&theme=tokyo-night&hide_border=true"/>
-
+  <img src="https://raw.githubusercontent.com/JuanDiegoCC02/JuanDiegoCC02/output/activity-graph.svg" alt="GitHub Activity Graph"/>
+  
 </div>
 
 <div align="center">
