@@ -99,8 +99,8 @@ Gamified habit tracker focused on productivity, personal growth and user engagem
 <div align="center">
 
 <img
-  src="./assets/contributions.dark.svg"
-  alt="GitHub Contribution Activity"
+  src="./assets/github-profile-card.svg"
+  alt="Juan Diego GitHub Profile Statistics"
   width="100%"
 />
 
