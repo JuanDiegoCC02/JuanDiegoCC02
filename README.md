@@ -99,11 +99,12 @@ Gamified habit tracker focused on productivity, personal growth and user engagem
 <div align="center">
 
 <img
-  src="https://ghstats.dev/api/card?username=JuanDiegoCC02&theme=tokyonight"
-  alt="Juan Diego GitHub Statistics"
+  src="https://github-contribution-card.vercel.app/api?username=JuanDiegoCC02&theme=tokyonight"
+  alt="Juan Diego GitHub Contributions"
 />
 
 </div>
+
 
 <div align="center">
   <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JuanDiegoCC02&theme=tokyonight" alt="Detalles de perfil" />
