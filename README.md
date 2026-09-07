@@ -3,7 +3,7 @@
 # 👋 Hi, I'm Juan Diego Corella Camacho
 
 ### Full Stack Developer <br/>
-• React • Django • MySQL • AI integration•
+• React • Django • MySQL • AI integration •
 
 <p>
 Building scalable web applications, REST APIs and modern software solutions with clean architecture.
