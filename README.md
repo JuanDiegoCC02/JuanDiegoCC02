@@ -99,8 +99,9 @@ Gamified habit tracker focused on productivity, personal growth and user engagem
 <div align="center">
 
 <img
-  src="https://github-contribution-card.vercel.app/api?username=JuanDiegoCC02&theme=tokyonight"
-  alt="Juan Diego GitHub Contributions"
+  src="./assets/contributions.dark.svg"
+  alt="GitHub Contribution Activity"
+  width="100%"
 />
 
 </div>
