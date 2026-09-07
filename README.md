@@ -98,7 +98,7 @@ Gamified habit tracker focused on productivity, personal growth and user engagem
 
 <div align="center">
 
-![GitHub Profile Summary](https://github-profile-summary-cards-git-master-vn7n24fzkqs-projects.vercel.app/api/cards/profile-details?username=JuanDiegoCC02&theme=github_dark)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JuanDiegoCC02&theme=tokyo-night&hide_border=true&area=true" alt="Juan Diego GitHub Activity Graph"/>
 
 </div>
 
