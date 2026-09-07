@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Juan Diego Corella Camacho
 
-### Full Stack Developer • Python • Django • React
+### Full Stack Developer • React • Django • Python • AI integration
 
 <p>
 Building scalable web applications, REST APIs and modern software solutions with clean architecture.
