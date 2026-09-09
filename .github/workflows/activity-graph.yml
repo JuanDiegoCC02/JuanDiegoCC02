@@ -15,7 +15,7 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v6
+        uses: actions/checkout@v4
 
       - name: Generate activity graph
         uses: maurodesouza/github-readme-activity-graph-action@v1
@@ -30,9 +30,15 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Publish activity graph
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          build_dir: dist
-          target_branch: output
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git checkout --orphan output
+          git rm -rf . || true
+
+          cp dist/activity-graph.svg activity-graph.svg
+
+          git add activity-graph.svg
+          git commit -m "Update activity graph"
+          git push --force origin output
