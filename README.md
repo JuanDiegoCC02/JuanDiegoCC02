@@ -14,7 +14,7 @@ Building scalable web applications, REST APIs and modern software solutions with
     <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=58A6FF&labelColor=0D1117" alt="Portfolio"/>
   </a>
   <a href="https://linkedin.com/in/juan-diego-corella-camacho-a543ba1a9">
-     <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="36" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF&color=0D1117" alt="LinkedIn"/>
   </a>
   <a href="mailto:dcorella2324@gmail.com">
     <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF&labelColor=0D1117" alt="Email"/>
