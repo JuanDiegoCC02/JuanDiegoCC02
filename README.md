@@ -154,5 +154,8 @@ Gamified habit tracker focused on productivity, personal growth and user engagem
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Python+%7C+Django+%7C+React;Building+Scalable+Software+Solutions" />
+ <img
+  src="https://readme-svg-typing-generator.vercel.app/api?lines=Full+Stack+Developer;React+%7C+Django+%7C+Python;AI+%7C+Backend+%7C+Scalable+Systems&animation=neon&color=00D9FF&size=26&duration=3000&pause=1200&center=true&vCenter=true&width=850&height=90&repeat=true"
+  alt="Full Stack Developer"
+/>
 </p>
