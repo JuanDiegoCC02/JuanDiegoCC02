@@ -100,8 +100,8 @@ Gamified habit tracker focused on productivity, personal growth and user engagem
 <div align="center">
 
 <img
-  src="https://github-readme-stats.tuhidulhossain.com/api/streak?username=JuanDiegoCC02"
-  alt="Juan Diego GitHub Streak"
+  src="[https://github-readme-stats.tuhidulhossain.com/api/streak?username=JuanDiegoCC02](https://raw.githubusercontent.com/JuanDiegoCC02/JuanDiegoCC02/comet-graph/comet.svg)"
+  alt="Juan Diego GitHub"
 />
 
 </div>
