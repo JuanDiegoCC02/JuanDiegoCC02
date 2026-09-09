@@ -22,10 +22,20 @@ jobs:
         with:
           username: JuanDiegoCC02
           options: >-
-            theme=tokyo-night
-            &hide_border=true
+            bg_color=0B0F14
+            &border_color=1B2633
+            &color=8B9BB4
+            &title_color=58A6FF
+            &line=00D9FF
+            &point=58A6FF
+            &area_color=123A52
             &area=true
+            &hide_border=true
+            &custom_title=GitHub%20Activity
+            &radius=12
+            &height=320
             &days=31
+            &grid=true
           output_path: dist/activity-graph.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
