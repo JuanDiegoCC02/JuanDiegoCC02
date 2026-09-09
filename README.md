@@ -91,6 +91,14 @@ Gamified habit tracker focused on productivity, personal growth and user engagem
 # 📊 GitHub Analytics
 
 <div align="center">
+  
+  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JuanDiegoCC02&theme=tokyonight" alt="Detalles de perfil" />
+  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JuanDiegoCC02&theme=tokyonight" alt="Repositorios por lenguaje" />
+  
+</div>
+
+
+<div align="center">
 
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=JuanDiegoCC02&theme=tokyonight&hide_border=true"/>
 
@@ -98,19 +106,11 @@ Gamified habit tracker focused on productivity, personal growth and user engagem
 
 
 <div align="center">
-
-<img
-  src="https://raw.githubusercontent.com/JuanDiegoCC02/JuanDiegoCC02/output/activity-graph.svg"
-  alt="Juan Diego GitHub Activity Graph"
-/>
+  
+<img src="https://raw.githubusercontent.com/JuanDiegoCC02/JuanDiegoCC02/output/activity-graph.svg" alt="Juan Diego GitHub Activity Graph"/>
 
 </div>
 
-
-<div align="center">
-  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JuanDiegoCC02&theme=tokyonight" alt="Detalles de perfil" />
-  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JuanDiegoCC02&theme=tokyonight" alt="Repositorios por lenguaje" />
-</div>
 
 ---
 
