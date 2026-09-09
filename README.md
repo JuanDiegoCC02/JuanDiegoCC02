@@ -99,17 +99,10 @@ Gamified habit tracker focused on productivity, personal growth and user engagem
 
 <div align="center">
 
-<picture>
-  <source
-    media="(prefers-reduced-motion: reduce)"
-    srcset="https://raw.githubusercontent.com/JuanDiegoCC02/JuanDiegoCC02/comet-graph/comet-reduced.svg"
-  />
-
-  <img
-    src="https://raw.githubusercontent.com/JuanDiegoCC02/JuanDiegoCC02/comet-graph/comet.svg"
-    alt="Juan Diego GitHub Contribution Graph"
-  />
-</picture>
+<img
+  src="https://raw.githubusercontent.com/JuanDiegoCC02/JuanDiegoCC02/output/activity-graph.svg"
+  alt="Juan Diego GitHub Activity Graph"
+/>
 
 </div>
 
