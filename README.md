@@ -149,7 +149,7 @@ Gamified habit tracker focused on productivity, personal growth and user engagem
 
 *Building reliable software through continuous learning, clean architecture and modern development practices.*
 
-⭐ **Feel free to explore my repositories and connect with me.**
+⚡ **Feel free to explore my repositories and contact me.**
 
 </div>
 
