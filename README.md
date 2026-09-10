@@ -25,7 +25,7 @@ Building scalable web applications, REST APIs and modern software solutions with
 
 ---
 
-# 🚀 About Me
+# 👨🏻‍💻 About Me
 
 I'm a **Full Stack Developer** from **Costa Rica** focused on building scalable web applications, backend systems and modern software solutions.
 
@@ -33,7 +33,7 @@ I enjoy developing clean, maintainable applications using **React**, **Django** 
 
 ---
 
-# 💻 Tech Stack
+# 🖥️ Tech Stack
 
 ### Frontend
 
