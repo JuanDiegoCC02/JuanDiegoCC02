@@ -62,7 +62,7 @@ I enjoy developing clean, maintainable applications using **React**, **Django** 
 
 ---
 
-# ⭐ Featured Projects
+# ⚡ Featured Projects
 
 ### 🌐 Networks & Telecommunications
 
