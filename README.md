@@ -1,6 +1,6 @@
 <div align="center">
 
-#  Hi, I'm Juan Diego Corella Camacho👋
+# 👋🏻​ Hi, I'm Juan Diego Corella Camacho
 
 ### Full Stack Developer <br/>
 • React • Django • MySQL • AI Integration •
