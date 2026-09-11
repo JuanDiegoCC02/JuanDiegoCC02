@@ -123,7 +123,7 @@ Gamified habit tracker focused on productivity, personal growth and user engagem
 
 ---
 
-# 🤝 Let's Connect
+# ​🤝🏻​ Contacts
 
 <p align="center">
   <strong>Open to new opportunities, collaborations and interesting projects.</strong>
