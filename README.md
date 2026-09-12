@@ -145,7 +145,7 @@ Gamified habit tracker focused on productivity, personal growth and user engagem
 
 <div align="center">
 
-### Thanks for visiting my GitHub profile! 👋
+### Thanks for visiting my GitHub profile! 👋🏻​
 
 *Building reliable software through continuous learning, clean architecture and modern development practices.*
 
