@@ -40,25 +40,21 @@ I enjoy learning through hands-on development, solving technical problems, and c
 # 🖥️ Tech Stack
 
 ### Frontend
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?logo=react)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap)
 
 ### Backend
-
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python)
 ![Django](https://img.shields.io/badge/Django-092E20?logo=django)
 ![Django REST Framework](https://img.shields.io/badge/Django_REST_Framework-A30000?logo=django)
 
 ### Database
-
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql)
 
 ### Tools
-
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman)
