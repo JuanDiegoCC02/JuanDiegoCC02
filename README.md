@@ -72,7 +72,7 @@ Full Stack platform for managing routers, IP cameras and network infrastructure 
 
 ---
 
-### 🌱 Noticias Ambientales C.R.
+### 🌎​ Noticias Ambientales C.R.
 
 Community platform for reporting environmental news through geolocated publications, image uploads and collaborative discussions.
 
@@ -80,7 +80,7 @@ Community platform for reporting environmental news through geolocated publicati
 
 ---
 
-### ⭐ Numb Astro
+### 🌠​ Numb Astro
 
 Gamified habit tracker focused on productivity, personal growth and user engagement through analytics and achievements.
 
