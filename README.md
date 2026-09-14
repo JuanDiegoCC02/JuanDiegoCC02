@@ -1,27 +1,27 @@
 <div align="center">
 
-# 👋🏻​ Hi, I'm Juan Diego Corella Camacho
+# 👋🏻 Hi, I'm Juan Diego Corella Camacho
 
-### Full Stack Developer <br/>
-• React • Django • MySQL • AI Integration •
+### Full Stack / Backend Developer
 
-<p>
-Building scalable web applications, REST APIs and modern software solutions with clean architecture.
-</p>
+**Python • Django • Django REST Framework • React • PostgreSQL • MySQL • AI Integration**
+
+Building reliable web applications, REST APIs, and AI-powered software solutions with a strong focus on backend development and clean architecture.
 
 <p align="center">
   <a href="https://juandiegocc02.github.io/Professional-Portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=58A6FF&labelColor=0D1117" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=58A6FF" alt="Portfolio"/>
   </a>
   <a href="https://linkedin.com/in/juan-diego-corella-camacho-a543ba1a9">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF&color=0D1117" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF" alt="LinkedIn"/>
   </a>
   <a href="mailto:dcorella2324@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF&labelColor=0D1117" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF" alt="Email"/>
   </a>
 </p>
 
 </div>
+
 
 ---
 
