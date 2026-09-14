@@ -2,9 +2,9 @@
 
 # 👋🏻 Hi, I'm Juan Diego Corella Camacho
 
-### Full Stack / Backend Developer
+### Full Stack Developer
 
-**Python • Django • Django REST Framework • React • PostgreSQL • MySQL • AI Integration**
+**Python • Django • React • PostgreSQL • MySQL • AI Integration**
 
 Building reliable web applications, REST APIs, and AI-powered software solutions with a strong focus on backend development and clean architecture.
 
@@ -21,7 +21,6 @@ Building reliable web applications, REST APIs, and AI-powered software solutions
 </p>
 
 </div>
-
 
 ---
 
