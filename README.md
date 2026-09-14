@@ -6,7 +6,7 @@
 
 **Python • Django • React • PostgreSQL • MySQL • AI Integration**
 
-Building web applications, REST APIs, and AI-powered software solutions with a strong focus on backend development and clean architecture.
+Building web applications, REST APIs, & AI-powered software solutions with a strong focus on backend development and clean architecture.
 
 <p align="center">
   <a href="https://juandiegocc02.github.io/Professional-Portfolio/">
