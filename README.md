@@ -26,7 +26,7 @@ Building web applications, REST APIs, and AI-powered software solutions with a s
 
 # 👨🏻‍💻 About Me
 
-I'm a Junior Full Stack / Backend Developer from Costa Rica with a strong focus on Python, Django and REST API development.
+I'm a Full Stack Developer from Costa Rica with a strong focus on React, Python, Django and REST API development.
 
 I build web applications that combine React frontends, Django backends, relational databases and third-party services. I'm particularly interested in backend architecture, API design, data processing and building reliable software.
 
