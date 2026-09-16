@@ -121,7 +121,7 @@ Gamified habit tracker focused on productivity, personal growth and user engagem
 
 ---
 
-# ​🤝🏻​ Contacts
+# ​🤝🏻​ Contact
 
 <p align="center">
   <strong>Open to new opportunities, collaborations and interesting projects.</strong>
